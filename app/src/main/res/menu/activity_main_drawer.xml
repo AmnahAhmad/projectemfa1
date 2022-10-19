@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_credit"
+            android:icon="@drawable/ic_baseline_arrow_upward_24"
+            android:title="@string/menu_credit" />
+        <item
+            android:id="@+id/nav_debit"
+            android:icon="@drawable/ic_arrow_downward"
+            android:title="@string/menu_debit" />
+
+
+        <item
+            android:id="@+id/nav_debt"
+            android:icon="@drawable/ic_baseline_compare_arrows_24"
+            android:title="@string/menu_debt" />
+
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_baseline_report_24"
+            android:title="@string/menu_report" />
+
+    </group>
+</menu>

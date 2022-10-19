@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">project_impl</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">AMNA AHMAD</string>
+    <string name="nav_header_subtitle">amna@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_credit">Credit</string>
+    <string name="menu_debit">Debit</string>
+    <string name="menu_debt">Debt</string>
+    <string name="menu_report">Report</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="up_sucess_message">Updated Successfully</string>
+    <string name="up_unsuccess_message">Updated Unsuccessfully</string>
+    <string name="delete_message">Do you want  to delete it?</string>
+    <string name="undo_message">Data once deleted  can not be undo</string>
+    <string name="Correct_pass_message">Please enter correct Password!!</string>
+    <string name="Pass_reset_success">Password Reset Successfully</string>
+    <string name="Pass_reset_unsuccess">Password Reset UnSuccessfully!!</string>
+    <string name="Pension_category">Pension selected as Credit Category</string>
+    <string name="Rent_category">Rent selected as Credit Category</string>
+    <string name="Salary_category">Salary selected as Credit Category</string>
+    <string name="Business_category">Business selected as Credit Category</string>
+    <string name="GPS_message">GPS is already turned on</string>
+    <string name="data_add_message">Data added successfully</string>
+    <string name="error_message">Error while inserting data</string>
+    <string name="Setting_clicked">You clicked Setting</string>
+    <string name="Click_Search">You clicked Search</string>
+    <string name="Email_message">Please enter Email!!</string>
+    <string name="Password_message">Please enter Password!!</string>
+    <string name="successs_login">Login Successful!!</string>
+    <string name="unsuccess_login">Login Failed!!</string>
+    <string name="First_name">Please enter First Name!!</string>
+    <string name="Last_name">Please enter Last Name!!</string>
+    <string name="Registeration_message">Registering Please Wait...</string>
+    <string name="Registeration_success">Registration successful!</string>
+    <string name="Registration_unsuccess">Registration failed!!</string>
+    <string name="Try_again_Message">Please try again later</string>
+    <string name="Data_Fail">Failed to get Data.</string>
+    <string name="debt_in">debt_in selected as credit category</string>
+    <string name="debt_out">debt_out  selected as credit category</string>
+    <string name="Clicked_Credit">You clicked Credit</string>
+    <string name="Clicked_Debit">You clicked ddebit</string>
+    <string name="Clicked_Debt">You clicked Debt</string>
+    <string name="Report">Report</string>
+    <string name="appwidget_text">EMFA</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>
